@@ -1,4 +1,4 @@
-# 🏨 TAJ HOTEL MANAGEMENT SYSTEM
+# 🏨 HOTEL MANAGEMENT SYSTEM
 
 A simple yet professional **Hotel Management System** built using **Python** and **Object-Oriented Programming (OOP)** concepts.
 This project allows hotel staff to manage room bookings, calculate bills, save customer records, search records, and manage hotel services efficiently.
@@ -40,7 +40,7 @@ This project allows hotel staff to manage room bookings, calculate bills, save c
 # 📂 Project Structure
 
 ```bash
-TAJ-HOTEL-MANAGEMENT/
+Hotel-Management-System/
 │
 ├── hotel_management.py
 ├── hotelrecord.txt
@@ -164,7 +164,7 @@ TOTAL BILL    : ₹11400
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/taj-hotel-management.git
+git clone https://github.com/Swaroopa-Goswami/Hotel-Management-System.git
 ```
 
 ---
@@ -172,7 +172,7 @@ git clone https://github.com/your-username/taj-hotel-management.git
 ## Open Project Folder
 
 ```bash
-cd taj-hotel-management
+cd Hotel-Management-System
 ```
 
 ---
