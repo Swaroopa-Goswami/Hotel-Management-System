@@ -216,13 +216,6 @@ This project demonstrates:
 
 ---
 
-# ⭐ Project Status
-
-✅ Completed
-📌 Beginner-Friendly Python Project
-🎓 Great for Academic Mini Projects & OOP Practice
-
----
 
 # 📄 License
 
